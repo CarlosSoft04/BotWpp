@@ -1,0 +1,11 @@
+ # Este arquivo sera util para quando outras pessoas forem instalar as dependencias necessarias para rodar o projeto.
+ # Atualizado em 16/12/2024
+
+ 1.npm install
+ 2.npm install ffmpeg
+ 3.npm install github:WhiskeySockets/Baileys
+ 4.npm install pino
+ 5.npm i readline
+ 
+
+ ## !!  CASO TENHA ESQUECIDO ALGUMA INSTALACAO, CONSULTE O LOG DE ERRO.
